@@ -12,16 +12,22 @@ Arduino Nano
 OLED Display
 Red, Yellow, Green LEDs
 Breadboard and Wires
+
+
 Working:
 The thermoelectric module converts heat into electrical energy.
 The solar cell generates power when exposed to light.
 The OLED display shows the real-time temperature.
 LED indicators show the status of energy (low, medium, or high).
+
+
 Setup Instructions:
 Connect the thermoelectric module and solar cell to the breadboard as shown in the circuit diagram.
 Upload the Arduino code to the Arduino Nano using the Arduino IDE.
 Power the system using the connected energy sources (heat and light).
 Monitor the temperature and power levels displayed on the OLED.
+
+
 Future Work:
 Integrating more eco-friendly technologies.
 Improving energy efficiency and adding wireless features.
